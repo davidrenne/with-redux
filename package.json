@@ -15,6 +15,7 @@
     "react": "~0.14.7",
     "react-dom": "~0.14.7",
     "react-redux": "~4.3.0",
+    "bootstrap": "https://github.com/twbs/bootstrap/tarball/v4-dev",
     "redux": "~3.2.1"
   },
   "devDependencies": {
