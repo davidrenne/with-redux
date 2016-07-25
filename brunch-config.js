@@ -1,5 +1,10 @@
 exports.config = {
   hot: true,
+  npm: {
+    styles: {
+      bootstrap: ['dist/css/bootstrap.css']
+    }
+  },
 
   files: {
     javascripts: { joinTo: 'app.js' },
